@@ -1,4 +1,4 @@
-###Seja muito bem vindo ao meu perfil !! 🤞
+### Seja muito bem vindo ao meu perfil !! 🤞
 
 Meu nome é Matheus Gruba
  -Sou aluno e faço o curso alura nas aulas de Pensamento Computacional;
